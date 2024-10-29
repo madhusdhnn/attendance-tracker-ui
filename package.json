@@ -1,7 +1,14 @@
 {
   "name": "attendance-tracker-ui",
-  "version": "0.1.0",
+  "description": "Attendance tracker using Next JS",
+  "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">= 18.20.4"
+  },
+  "author": {
+    "name": "Madhusudhanan"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
